@@ -1,5 +1,5 @@
 # EdwinFairchild :zap:
-# [Youtube :tv:](https://www.youtube.com/user/sdf3e33/videos) | [Instgram :camera:](https://www.instagram.com/edwinfairchild/) | [Discord :computer:](https://discord.gg/UaqcKxN6Nd)
+# [EdwinFairchild.com](https://www.edwinfairchild.com/) | [Youtube :tv:](https://www.youtube.com/user/sdf3e33/videos) | [Instgram :camera:](https://www.instagram.com/edwinfairchild/) | [Discord :computer:](https://discord.gg/UaqcKxN6Nd)
 I am an electronic enigeer focused on embedded systems and firmware.
 #
 
