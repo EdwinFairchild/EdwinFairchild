@@ -1,11 +1,12 @@
 # EdwinFairchild :zap:
 # [EdwinFairchild.com](https://www.edwinfairchild.com/) | [Youtube :tv:](https://www.youtube.com/user/sdf3e33/videos) | [Instgram :camera:](https://www.instagram.com/edwinfairchild/) | [Discord :computer:](https://discord.gg/UaqcKxN6Nd)
-I am an electronic enigeer focused on embedded systems and firmware.
+I am an Electronic Engineer focused on embedded systems and firmware.
 #
 
 
 ### Currently working on
 - Preparing [uCShell](https://github.com/EdwinFairchild/uCShell) for an initial release
+- Portable and robust bootloader with a partner desktop application
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
 
 ### Future projects
