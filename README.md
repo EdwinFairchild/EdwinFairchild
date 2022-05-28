@@ -13,9 +13,11 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 - Open source wireless electronic load and power supply
 
 ### Currently learning
+- Analog Devices MAX-series MCUs
+- Analog Devices MAX32655 BLE w/ ARM/RISC 
 - Embedded linux device drivers
 - NXP Crossover MCUs
-- Analog Devices MAX-series MCUs
+
 
 
 <!--
