@@ -4,14 +4,13 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 #
 
 
-### Currently working on
-- Preparing [uCShell](https://github.com/EdwinFairchild/uCShell) for an initial release
-- Portable and robust bootloader with a partner desktop application
+### Currently working on 🔭
+- Portable, robust, hardware agnostic bootloader with a partner desktop application.
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
-
-### Future projects
+- BLE-PyDex :  Bluetooth GATT Explorer & Code Generator GUI for Maxim/ADI BLE Microcontrollers
+### Future projects 🤔
 - Open source wireless electronic load and power supply
-
+- Wireless DapLink debugger
 ### Currently learning
 - Analog Devices MAX-series MCUs
 - Analog Devices MAX32655 BLE w/ ARM/RISC 
