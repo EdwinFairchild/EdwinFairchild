@@ -9,7 +9,7 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
 - BLE-PyDex :  Bluetooth GATT Explorer 
 - Code Generator GUI for Maxim/ADI BLE Microcontrollers
-- Smart USB Hub with programable ports
+- Smart USB Hub with programmable ports
 ### Future projects 🤔
 - Open source wireless electronic load and power supply
 - Wireless DapLink debugger
