@@ -7,7 +7,9 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 ### Currently working on 🔭
 - Portable, robust, hardware agnostic bootloader with a partner desktop application. (Not secure but maybe in the future)
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
-- BLE-PyDex :  Bluetooth GATT Explorer & Code Generator GUI for Maxim/ADI BLE Microcontrollers
+- BLE-PyDex :  Bluetooth GATT Explorer 
+- Code Generator GUI for Maxim/ADI BLE Microcontrollers
+- Smart USB Hub with programable ports
 ### Future projects 🤔
 - Open source wireless electronic load and power supply
 - Wireless DapLink debugger
