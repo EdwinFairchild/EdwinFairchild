@@ -6,7 +6,8 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 
 ### Currently working on 🔭
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
-- tinyThreads : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc. 
+- tinyThreads : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc.
+- ELFInsight : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
 - BLE-PyDex :  Bluetooth GATT Explorer 
 - Smart USB Hub with programmable ports
 ### Future projects 🤔
