@@ -4,15 +4,17 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 #
 
 
-### Currently working on 🔭
+### My Projects 🔭
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
 - tinyThreads : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc.
 - ELFInsight : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
 - BLE-PyDex :  Bluetooth GATT Explorer 
-- Smart USB Hub with programmable ports
+- DefiTracker : DeFi Liquidity Provider PnL tracker
+- SLATE : SCPI/LXI Automated Testing Environment used to automate testing with benchtop tools that support SCPI. 
 ### Future projects 🤔
 - Open source wireless electronic load and power supply
 - Wireless DapLink debugger
+- Smart USB Hub with programmable ports
 
 
 
