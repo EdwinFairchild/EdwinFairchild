@@ -6,11 +6,11 @@ I am an Electronic Engineer focused on embedded systems and firmware.
 
 ### My Projects 🔭
 - New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
-- tinyThreads : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc.
-- ELFInsight : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
-- BLE-PyDex :  Bluetooth GATT Explorer 
-- DefiTracker : DeFi Liquidity Provider PnL tracker
-- SLATE : SCPI/LXI Automated Testing Environment used to automate testing with benchtop tools that support SCPI. 
+- [tinyThreads](https://github.com/EdwinFairchild/tinyThreads) : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc.
+- [ELFInsight](https://github.com/EdwinFairchild/ELFInsight-VSCode) : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
+- [BLE-PyDex](https://github.com/EdwinFairchild/BLE-PyDex) :  Bluetooth GATT Explorer 
+- DefiTracker  (private): DeFi Liquidity Provider PnL tracker
+- [SLATE](https://github.com/EdwinFairchild/slate) : SCPI/LXI Automated Testing Environment used to automate testing with benchtop tools that support SCPI. 
 ### Future projects 🤔
 - Open source wireless electronic load and power supply
 - Wireless DapLink debugger
