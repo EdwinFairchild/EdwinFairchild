@@ -1,12 +1,13 @@
 # EdwinFairchild :zap:
 # [EdwinFairchild.com](https://www.edwinfairchild.com/) | [Youtube :tv:](https://www.youtube.com/user/sdf3e33/videos) | [Instgram :camera:](https://www.instagram.com/edwinfairchild/)
-I am an Electronic Engineer focused on embedded systems and firmware.
+I am an Electronic Engineer focused on embedded systems and firmware. I enjoy making GUIs that interact with hardware.
 #
 
 
 ### Software Projects 🔭
-- New content for my [blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
-- [tinyThreads](https://github.com/EdwinFairchild/tinyThreads) : A basic thread scheduler for embedded systems, RTOS features like mutexes,queues, soft timers etc.
+- [Blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
+- [ViewAlyzer](https://viewalyzer.net/) : A modern trace-logger and profiler for embedded systems.
+#### Old Stuff
 - [ELFInsight](https://github.com/EdwinFairchild/ELFInsight-VSCode) : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
 - [BLE-PyDex](https://github.com/EdwinFairchild/BLE-PyDex) :  Bluetooth GATT Explorer 
 - [EDC](https://github.com/EdwinFairchild/EDC) : Embedded Debug Controller, a custom debug adaptor for VS code with enhanced features. 
