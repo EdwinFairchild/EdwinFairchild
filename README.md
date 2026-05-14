@@ -7,7 +7,7 @@ I am an Electronic Engineer focused on embedded systems and firmware. I enjoy ma
 ### Software Projects 🔭
 - [Blog](https://www.edwinfairchild.com) and my [Youtube channel](https://www.youtube.com/user/sdf3e33/videos)
 - [ViewAlyzer](https://viewalyzer.net/) : A modern trace-logger and profiler for embedded systems.
-#### Old Stuff
+- [ProbeStream]([https://viewalyzer.net/](https://github.com/EdwinFairchild/ProbeStream)) : RTT style tracing for STLink
 - [ELFInsight](https://github.com/EdwinFairchild/ELFInsight-VSCode) : VS Code extension to analyze elf files and generate a call graph (now live in marketplace)
 - [BLE-PyDex](https://github.com/EdwinFairchild/BLE-PyDex) :  Bluetooth GATT Explorer 
 - [EDC](https://github.com/EdwinFairchild/EDC) : Embedded Debug Controller, a custom debug adaptor for VS code with enhanced features. 
