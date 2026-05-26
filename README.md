@@ -6,7 +6,7 @@
 
 **Electronic Engineer · Embedded Systems · Firmware**
 
-I build tools that bridge silicon and software — debuggers, tracers, and GUIs that make hardware easier to reason about.
+I build tools that bridge silicon and software debuggers, tracers, and GUIs that make hardware easier to reason about.
 
 [![Website](https://img.shields.io/badge/edwinfairchild.com-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edwinfairchild.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/sdf3e33/videos)
@@ -20,7 +20,7 @@ I build tools that bridge silicon and software — debuggers, tracers, and GUIs 
 
 | Project | What it is |
 | --- | --- |
-| [**Animatrix**](https://animatrix.io/) | Node-based animation & motion design environment. [`repo`](https://github.com/EdwinFairchild/AnimatrixSupport) |
+| [**Animatrix**](https://animatrix.io/) | Node-based diagram drawing and animation environment. [`repo`](https://github.com/EdwinFairchild/AnimatrixSupport) |
 | [**ViewAlyzer**](https://viewalyzer.net/) | Modern trace-logger and profiler for embedded systems |
 | [**ProbeStream**](https://github.com/EdwinFairchild/ProbeStream) | RTT-style tracing for ST-Link |
 | [**ELFInsight**](https://github.com/EdwinFairchild/ELFInsight-VSCode) | VS Code extension for ELF analysis and call graphs — *live in marketplace* |
@@ -37,4 +37,4 @@ I build tools that bridge silicon and software — debuggers, tracers, and GUIs 
 ### Writing & Video
 
 - Long-form notes on the [blog](https://www.edwinfairchild.com)
-- Builds and walkthroughs on [YouTube](https://www.youtube.com/user/sdf3e33/videos)
+- STM32 Tutorials and misc [YouTube](https://www.youtube.com/user/sdf3e33/videos)
