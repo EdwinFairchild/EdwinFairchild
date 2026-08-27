@@ -6,8 +6,11 @@
 
 **Electronic Engineer · Embedded Systems · Firmware**
 
+**Founder, [BKPT Labs](https://bkptlabs.com)**
+
 I build tools that bridge silicon and software debuggers, tracers, and GUIs that make hardware easier to reason about.
 
+[![BKPT Labs](https://img.shields.io/badge/BKPTLabs.com-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bkptlabs.com/)
 [![Website](https://img.shields.io/badge/edwinfairchild.com-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.edwinfairchild.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/sdf3e33/videos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edwinfairchild/)
